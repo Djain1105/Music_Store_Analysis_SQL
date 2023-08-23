@@ -7,3 +7,11 @@ Tools used: PostgreSQL
 Project Learnings:
 
 Gained experience in transforming and manipulating data to suit specific needs, such as aggregating data, filtering, and joining tables.
+
+
+## Database and Tools
+* Postgre SQL
+* PgAdmin4
+
+Schema- Music Store Database  
+![MusicDatabaseSchema]
