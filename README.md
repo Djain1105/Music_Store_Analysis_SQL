@@ -14,4 +14,4 @@ Gained experience in transforming and manipulating data to suit specific needs, 
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema]
+![MusicDatabaseSchema] (https://raw.githubusercontent.com/Djain1105/Music_Store_Analysis_SQL/main/MusicDatabaseSchema.png)
